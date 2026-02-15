@@ -6,7 +6,7 @@ python 3.6
 
 # XZP1
 
-* 4 bytes - Magic Header
+* 4 bytes - Block Header
 * 4 bytes - offset to another data.
 * 4 bytes - size compressed
 * 4 bytes - size uncompressed
